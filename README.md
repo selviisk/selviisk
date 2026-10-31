@@ -6,7 +6,6 @@ I'm currently studying Computer Engineering.
 
 ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selviisk__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvi-ışık)
 [![NSosyal](https://img.shields.io/badge/NSosyal-00A8E8?style=for-the-badge&logo=masto&logoColor=white)](https://nsosyal.com/selviisk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvi.isik03@gmail.com)
