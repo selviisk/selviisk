@@ -40,6 +40,4 @@ I'm currently studying Computer Engineering.
 
 ---
 
-### 🏆 GitHub Trophies:
-
 ![](https://github-profile-trophy.vercel.app/?username=selviisk&theme=flat)
