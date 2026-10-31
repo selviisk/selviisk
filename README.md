@@ -31,6 +31,16 @@ I'm currently studying Computer Engineering.
 
 ---
 
+### 🐟 My Contribution Stream (Hamsi'nin İzleri):
+
+![Snake animation](https://raw.githubusercontent.com/selviisk/selviisk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=selviisk&theme=flat)
+
 ### 🐍 My GitHub Contribution Snake:
 
 ![Snake animation](https://raw.githubusercontent.com/selviisk/selviisk/output/github-contribution-grid-snake-dark.svg)
