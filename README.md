@@ -41,8 +41,5 @@ I'm currently studying Computer Engineering.
   <img src="heart-snake-dark.svg" alt="kalp yılan">
 </p>
 
-### 🐍 My GitHub Contribution Snake:
-
-![Snake animation](https://raw.githubusercontent.com/selviisk/selviisk/output/github-snake-dark.svg)
 
 ---
